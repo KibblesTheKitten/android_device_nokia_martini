@@ -13,8 +13,8 @@ $(call inherit-product, device/lge/hammerhead/full_hammerhead.mk)
 PRODUCT_DEVICE := hammerhead
 PRODUCT_NAME := lineage_hammerhead
 PRODUCT_BRAND := google
-PRODUCT_MODEL := Nexus 5
-PRODUCT_MANUFACTURER := LGE
+PRODUCT_MODEL := Nokia 930
+PRODUCT_MANUFACTURER := MICROSOFT MOBILE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=hammerhead \
